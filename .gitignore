@@ -14,8 +14,14 @@
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
 
+# tempfiles
+*.swp
+
 # Dependency directories (remove the comment below to include it)
 # vendor/
+
+# Generated files
+gen
 
 # Go workspace file
 go.work
